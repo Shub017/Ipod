@@ -1,0 +1,18 @@
+.Screen{
+    height: 300px;
+    width: 300px;
+    
+    border: 2px solid black;
+    position: relative;
+    left: 35%;
+    top: 85px;
+    border-top-left-radius: 30px; /* Top-left corner */
+    border-top-right-radius: 30px; /* Bottom-right corner */
+}
+
+.gamesImg{
+    height: 300px;
+    width: 300px;
+    border-top-left-radius: 30px; /* Top-left corner */
+    border-top-right-radius: 30px; /* Bottom-right corner */
+}

@@ -1,0 +1,29 @@
+.Screen{
+    height: 300px;
+    width: 300px;
+    background-color: burlywood;
+    border: 2px solid black;
+    position: relative;
+    left: 35%;
+    top: 85px;
+    border-top-left-radius: 30px; /* Top-left corner */
+    border-top-right-radius: 30px; /* Bottom-right corner */
+}
+
+.songItem{
+    font-size: 19px;
+    font-style: italic;
+    background-color: rgb(140, 235, 178);
+    padding: 10px;
+}
+
+.activesongItem{
+    font-size: 19px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: azure;
+    padding: 10px;
+}
+
+.marginTop{
+    padding-top: 10px;
+}

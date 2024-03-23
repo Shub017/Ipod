@@ -1,0 +1,58 @@
+.wheelContainer{
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    left: 35%;
+    top: 45%;
+    border: 2px solid black;
+    background-color: #FFD700;
+    box-shadow: 0 29px 52px rgba(0,0,0,0.40), 0 25px 16px rgba(0,0,0,0.20);
+}
+
+.wheel{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    border: 2px solid black;
+    background-color: #c9c8c5;
+}
+
+.backwardArrow{
+    width: 40px;
+    position: relative;
+    top: -170px;
+}
+
+.ForwardArrow{
+    width: 40px;
+    position: relative;
+    top: -170px;
+    left: 220px;
+}
+
+.Menu{
+    position: relative;
+    left: 100px;
+    top: -350px;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.Play{
+    position: relative;
+    width: 40px;
+    left: 60px;
+    top: -50px;
+}
+
+.OkButton{
+    position: relative;
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    border: 2px solid black;
+    top: -350px;
+    left: 85px;
+    background-color: #e0e0e3;
+}
